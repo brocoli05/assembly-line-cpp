@@ -1,0 +1,15 @@
+/*
+Project - 2023 FALL
+Full Name  : MINJI KIM
+Student ID#: 112030226
+Email      : mkim284@myseneca.ca
+Date	   : 25/NOV/2023
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+*/
+
+	In this project, I implemented various built-in functions provided by VS Code, applying the concept of the rule of five and other principles covered in the lectures. Writing the code until Milestone 2 was not particularly challenging. 
+	However, upon commencing Milestone 3, I found myself frustrated while reading the file, a feeling reminiscent of the previous semester. This frustration stemmed from forgetting to declare a new variable for the next position of the extracted token. 
+	I also encountered numerous errors, especially 'invalid size of 8,' and faced issues such as infinite loops in the 'attemptToMoveOrder()' and 'LineManager()' functions. The challenges extended beyond applying basic standard library functions and involved managing memory when moving orders. 
+	Additionally, I needed to use lambda functions when finding the station location using algorithm functions. While I still don't fully understand lambda functions, using them proved to be good practice. 
+	Consequently, resolving these issues consumed a significant amount of time as I worked to identify the root causes and implement fixes.
